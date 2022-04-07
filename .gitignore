@@ -1,0 +1,36 @@
+### gitignore file
+
+#ignore notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ignore node_modules folder
+node_modules
+
+# ignore files ending with .pyc
+*.pyc
+
+# ignore files and directories called __pycache__
+__pycache__
+
+# ignore other
+{{CMF_CONF_DIR}}
+venv
+
+# ignore excel and csv files
+*.xlsx
+*.csv
+
+# ignore pdf files
+*.pdf
+
+# ignore images
+*.png
+
+# ignore all hidden files
+.*
+
+# do not ignore .gitignore
+!.gitignore
+# do not ignore .keep (used to track empty directories with git)
+!.keep
