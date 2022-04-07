@@ -1,4 +1,4 @@
-# Topic Classification Expoints data
+# Topic Classification Project
 
 Goal: identify which topics are mentioned in texts
 
